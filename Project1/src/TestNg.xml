@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="ProjectJob">
+<test name="ProjectJob">
+<parameter name="BrowserNameTNG" value="Chrome"></parameter>
+
+<classes>
+<class name="TestProject.TestNG"></class>
+</classes>
+
+</test>
+
+
+</suite>
